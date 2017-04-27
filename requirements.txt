@@ -1,0 +1,7 @@
+Django==1.10
+django-import-export
+django-easy-select2
+django-admin-generator
+djangorestframework
+djangorestframework-jwt
+psycopg2
