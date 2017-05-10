@@ -9,5 +9,10 @@ Django REST Framework integrated with JWT
 - python manage.py runserver
 - login: demo / demoadmin
 
+## API URLS
+- /api 
+- /api-token-auth
+- /api-token-refresh
+
 ## Version:
 - Django 1.10
